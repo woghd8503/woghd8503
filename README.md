@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C%-23000000?logo=Csharp&style=flat"/>
+<img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
 <a href="https://www.instagram.com/woghd8503/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woghd8503/"/></a>&nbsp
