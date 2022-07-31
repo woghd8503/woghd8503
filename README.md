@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 <h3 align="Left">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="Left">
 
-<p align="Left">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woghd8503)](https://github.com/woghd8503/github-readme-stats)
-</p>
 
 <h3 align="Left">📚 Tech Stack 📚</h3>
 <p align="Left">
