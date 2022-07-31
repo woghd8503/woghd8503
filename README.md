@@ -1,4 +1,5 @@
-###👋 Hi there I am a Unity developer who likes to create user experience values through AR/VR/Metaverse creation, beyond the limits of reality.
+👋 Hi there I am a Unity developer👨🏻‍💻 who likes to create user experience values😄 
+    through AR/VR/Metaverse creation, beyond the limits of reality.
 
 <!--
 **woghd8503/woghd8503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
+<h3 align="Left">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="Left">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
