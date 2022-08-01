@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 <h3 align="Left">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="Left">
 
+<h3 align="Left">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woghd8503)](https://github.com/woghd8503/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woghd8503)](https://solved.ac/woghd8503/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woghd8503)](https://solved.ac/woghd8503/)
-  
+</h3>
+
 <h3 align="Left">📚 Tech Stack 📚</h3>
 <p align="Left">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
