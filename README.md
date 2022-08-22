@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="Left">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
-<h3 align="Left">🌈 Follow Me 🌈</h3>
+<h3 align="Left">😄 Follow Me 😄</h3>
 <p align="Left">
 <a href="https://www.instagram.com/woghd8503/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woghd8503/"/></a>&nbsp
 <a href="mailto:woghd8503@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=woghd8503@gmail.com"/></a>
