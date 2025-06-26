@@ -1,5 +1,5 @@
 
-👋 Hi there I am a Unity developer👨🏻‍💻 who likes to create user experience values😄<br/> 
+👋 Hi there I am developer👨🏻‍💻 who likes to create user experience values😄<br/> 
 👍 through AI/XR/Metaverse creation, beyond the limits of reality.
 
 <!--
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3 align="left">🧠 Tech Stack 🧠</h3>
 
 <!-- Languages & Platforms -->
-<h4 align="left">🧩 Languages & Platforms</h4>
+<h4 align="left"> - Languages & Platforms</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- AI / ML Frameworks -->
-<h4 align="left">🤖 AI / ML Frameworks</h4>
+<h4 align="left"> - AI / ML Frameworks</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Cloud & DevOps -->
-<h4 align="left">☁️ Cloud & DevOps</h4>
+<h4 align="left"> - Cloud & DevOps</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
