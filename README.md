@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="Left">👩‍💻 My Stats 👩‍💻</h3>
 <div align="Left">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woghd8503&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woghd8503&layout=compact&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woghd8503)](https://solved.ac/woghd8503/)
 
 <h3 align="left">🧠 Tech Stack 🧠</h3>
