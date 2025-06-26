@@ -1,6 +1,6 @@
 
-👋 Hi there I am developer👨🏻‍💻 who likes to create user experience values😄<br/> 
-👍 through AI/XR/Metaverse creation, beyond the limits of reality.
+👋 Hey there! I'm a curious developer 👨🏻‍💻 who loves crafting fun and meaningful user experiences 😄<br/>
+🚀 From AI to XR to the Metaverse — I build beyond the boundaries of reality!
 
 <!--
 **woghd8503/woghd8503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
